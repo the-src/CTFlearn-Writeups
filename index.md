@@ -14,7 +14,7 @@ Link to CTF: [https://ctflearn.com/](https://ctflearn.com/)
 ### 6. [Reverse](https://github.com/rishitsaiya/CTFlearn-Writeups/tree/master/Reverse)
 ### 7. [Web](https://github.com/rishitsaiya/CTFlearn-Writeups/tree/master/Web)
 
-#
+---
 
 <div align = "center">
 
