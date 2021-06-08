@@ -6,7 +6,7 @@ Link to CTF: [https://ctflearn.com/](https://ctflearn.com/)
 
 ## Challenges Category Wise
 
-### 1. [Binary](https://github.com/rishitsaiya/CTFlearn-Writeups/blob/master/Binary/README.md)
+### 1. [Binary](./Binary/README.md)
 ### 2. [Cryptography](https://github.com/rishitsaiya/CTFlearn-Writeups/tree/master/Cryptography)
 ### 3. [Forensics](https://github.com/rishitsaiya/CTFlearn-Writeups/tree/master/Forensics)
 ### 4. [Miscellaneous](https://github.com/rishitsaiya/CTFlearn-Writeups/tree/master/Miscellaneous)
