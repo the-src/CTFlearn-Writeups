@@ -6,9 +6,9 @@ Binaries, or executables, are machine code for a computer to execute. For the mo
   
 ## Solved Challenges List
 
-1. [Blackbox](./Blackbox/README.md)
-2. [Favorite Color](./Favorite%20Color/README.md)
-3. [Jenny](./Jenny/README.md)
-4. [Lazy Game Challenge](./Lazy%20Game%20Challenge/README.md)
-5. [RIP my bof](./RIP%20my%20bof/README.md)
-6. [Simple bof](./Simple%20bof/README.md)
+1. [Blackbox](./Blackbox/README.html)
+2. [Favorite Color](./Favorite%20Color/README.html)
+3. [Jenny](./Jenny/README.html)
+4. [Lazy Game Challenge](./Lazy%20Game%20Challenge/README.html)
+5. [RIP my bof](./RIP%20my%20bof/README.html)
+6. [Simple bof](./Simple%20bof/README.html)
