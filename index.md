@@ -6,13 +6,13 @@ Link to CTF: [https://ctflearn.com/](https://ctflearn.com/)
 
 ## Challenges Category Wise
 
-### 1. [Binary](./Binary/README.md)
-### 2. [Cryptography](./Cryptography)
-### 3. [Forensics](./Forensics)
-### 4. [Miscellaneous](./Miscellaneous)
-### 5. [Programming](./Programming)
-### 6. [Reverse](./Reverse)
-### 7. [Web](./Web)
+### 1. [Binary](./Binary/README.html)
+### 2. [Cryptography](./Cryptography/README.html)
+### 3. [Forensics](./Forensics/README.html)
+### 4. [Miscellaneous](./Miscellaneous/README.html)
+### 5. [Programming](./Programming/README.html)
+### 6. [Reverse](./Reverse/README.html)
+### 7. [Web](./Web/README.html)
 
 ---
 
