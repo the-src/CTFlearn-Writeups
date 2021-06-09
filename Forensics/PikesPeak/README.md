@@ -26,25 +26,7 @@ ctfLEARN{MtDoom}
 6ctflearninglearning{Mordor.TongariroAlpineCrossing}
 +CTFLEARN{MountGedePangrangoNationalPark}
 $ctflearncTfLeARN{MountKosciuszko}
-{rof
-#&f{
-Y\GC{(
-{r%681G
-{t(@Q
-{5$<
-)%)`{
-N{eI&
-]N&{
-NKxf{
-K;{Dk
-8pGM{
-d=q{
-|PV{
-xw{1
-#{;W
-}s7h{
-V{K[\d
-b%\{%
+...
 ```
 
 #### Step-4:
